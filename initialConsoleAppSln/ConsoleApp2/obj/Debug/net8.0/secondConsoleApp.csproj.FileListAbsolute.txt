@@ -1,0 +1,14 @@
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\bin\Debug\net8.0\secondConsoleApp.exe
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\bin\Debug\net8.0\secondConsoleApp.deps.json
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\bin\Debug\net8.0\secondConsoleApp.runtimeconfig.json
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\bin\Debug\net8.0\secondConsoleApp.dll
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\bin\Debug\net8.0\secondConsoleApp.pdb
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\obj\Debug\net8.0\secondConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\obj\Debug\net8.0\secondConsoleApp.AssemblyInfoInputs.cache
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\obj\Debug\net8.0\secondConsoleApp.AssemblyInfo.cs
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\obj\Debug\net8.0\secondConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\obj\Debug\net8.0\secondConsoleApp.dll
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\obj\Debug\net8.0\refint\secondConsoleApp.dll
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\obj\Debug\net8.0\secondConsoleApp.pdb
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\obj\Debug\net8.0\secondConsoleApp.genruntimeconfig.cache
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\ConsoleApp2\obj\Debug\net8.0\ref\secondConsoleApp.dll

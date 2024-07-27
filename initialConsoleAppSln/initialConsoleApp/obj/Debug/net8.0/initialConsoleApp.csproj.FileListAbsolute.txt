@@ -1,0 +1,14 @@
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\bin\Debug\net8.0\initialConsoleApp.exe
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\bin\Debug\net8.0\initialConsoleApp.deps.json
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\bin\Debug\net8.0\initialConsoleApp.runtimeconfig.json
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\bin\Debug\net8.0\initialConsoleApp.dll
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\bin\Debug\net8.0\initialConsoleApp.pdb
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\obj\Debug\net8.0\initialConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\obj\Debug\net8.0\initialConsoleApp.AssemblyInfoInputs.cache
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\obj\Debug\net8.0\initialConsoleApp.AssemblyInfo.cs
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\obj\Debug\net8.0\initialConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\obj\Debug\net8.0\initialConsoleApp.dll
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\obj\Debug\net8.0\refint\initialConsoleApp.dll
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\obj\Debug\net8.0\initialConsoleApp.pdb
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\obj\Debug\net8.0\initialConsoleApp.genruntimeconfig.cache
+C:\Users\aser\Desktop\c#\first lesson\initialConsoleAppSln\initialConsoleApp\obj\Debug\net8.0\ref\initialConsoleApp.dll
